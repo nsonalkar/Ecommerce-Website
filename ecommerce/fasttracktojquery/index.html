@@ -1,0 +1,198 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+
+    <title>Hello, world!</title>
+    <style>
+    h1{
+      color: blue;
+    }  
+    .description {
+      width:250px;
+      height:300px;
+      padding:30px 10px;
+    }
+    </style>
+  </head>
+  <body>
+    <div class ='container'>
+      <div class='row'>
+        <div class='col mx-auto'>
+          <h3>Form</h3>
+    <form class='new-content-form' method="POST" action =/some/url/link'>
+      <textarea name='content' class='form-control'></textarea>
+      <input type='submit' value='Save' />
+
+    </form>
+  </div>
+</div>
+</div>
+
+  <div class='formDataSubmitted'>
+
+    </div>
+
+
+
+
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+
+
+
+
+
+    <h1 class='header'>Hello, world!</h1>
+    <h1 class='header'>Hello, world!</h1>
+    <h1 class='header' id='header-3'>Header 3</h1>
+    <h1 class='header'>Hello, world!</h1>
+    <p class='description'><a href = '/abc/'>Some Link</a></p>
+    <p class='description'> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec dignissim sapien. Maecenas felis lacus, tempor sed leo id, gravida pretium nisl. Cras finibus sagittis elit, sit amet sagittis velit fringilla a. Donec a turpis turpis. Mauris mollis dolor id mauris molestie consectetur. Nunc eget ligula scelerisque, placerat nulla eget, convallis ipsum. Mauris nec mauris libero. Proin tincidunt posuere metus, in efficitur massa pharetra ac. Duis id libero est. Donec vel dolor massa. Quisque ac nulla id ipsum porttitor commodo. Nullam id pulvinar nunc. Mauris pharetra maximus molestie. Donec laoreet accumsan facilisis. Donec neque elit, pretium sit amet tempor vel, pulvinar finibus nulla.
+
+Nulla nec dui ut dolor faucibus pulvinar vel ac lacus. Sed vel elit vitae sem feugiat consectetur. Integer volutpat, leo et maximus viverra, leo nulla elementum lectus, id porttitor risus ex nec sapien. Aenean non quam non nibh sodales imperdiet ac at dolor. Vivamus vitae nulla sit amet massa iaculis vehicula ac eget enim. Cras a sodales est, id ullamcorper turpis. Mauris luctus euismod turpis quis elementum. Aliquam aliquet arcu sed ligula cursus, a gravida tellus ultricies. Ut pharetra neque vitae lacus feugiat, sit amet condimentum justo mattis. Aliquam ut urna eu dolor efficitur mollis at et nibh. Nulla semper facilisis sapien sit amet ultrices. Curabitur rhoncus, nibh vitae tincidunt hendrerit, felis justo condimentum massa, ut feugiat nulla felis id justo. Maecenas aliquet tincidunt nibh, eu dignissim velit condimentum et.
+
+Aenean consequat justo vel magna maximus, eget dictum ligula rhoncus. Praesent lacus sapien, accumsan ut nisi quis, lacinia gravida quam. Aliquam nec maximus eros. Integer sit amet enim porttitor, egestas libero eget, rhoncus sem. Sed sit amet commodo quam. Quisque tempor egestas accumsan. Vestibulum nec cursus nisi. Curabitur lobortis ex tortor, a dapibus augue malesuada id.</p>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src='https://code.jquery.com/jquery-3.3.1.min.js'></script>
+    <!-- <script type="text/javascript">
+      $(document).ready(function(){
+        var num =124
+        var someString = "some string"
+        var someArray = [num,9, 1233, "and so on"]
+        var someBool = true //true
+        $.each(someArray,function(index, obj){
+            console.log(index, obj)
+            if(obj%2 == 0 && someBool){
+              console.log(obj, "is even")
+            }
+            else if(obj%3 == 0 && someBool){
+              console.log(obj, "by 3")
+            }
+            else{
+              console.log(obj, "false and/or is not even")
+            }
+        })
+      })
+    </script> -->
+
+   <!--  <script type="text/javascript">
+      $(document).ready(function(){
+        // jquery is ready to roll
+        //$(selector)
+        //$('body').css("background-color", "purple")
+        var $description = $(".description")
+
+        console.log($description.length) //print()
+        console.log($description.css("height"))
+        console.log($description.height())
+
+        //if currentElementHeight > builtInHeight
+        //add $description.css("overflow", "scroll")
+
+        //$description.css("height", "300px").css("width", "250px")
+        setTimeout(function(){
+           // $('body').css("background-color", "purple")
+           $('h1').css("color", "purple")
+           $('h1:nth-child(2)').text("Hello again!")
+           $('#header-3').text("Hello Neil!")
+           $(".header").css("background-color", "green").css("padding", "30px")
+        }, 2000) // in ms
+      })
+
+    </script> -->
+
+
+
+
+   <!-- <script type="text/javascript">
+        $(document).ready(function(){
+          var $descriptionItems = $(".description")
+          //console.log($descriptionItems.length)
+
+          $.each($descriptionItems,function(index, obj){
+            var item = $(this)
+            var actualHeight = item[0].scrollHeight
+            var shouldBeHeight = item.height()
+            //console.log(actualHeight, shouldBeHeight)
+            if(actualHeight > shouldBeHeight){
+              item.css("overflow-y", "scroll")
+            }
+            //console.log(index, eachItem.height())
+            //console.log(index, obj)
+          })
+          var header3 = $("#header-3")
+          header3.click(function(event){
+            var $this = $(this)
+            console.log($this[0])
+            console.log(event)
+            window.location.href = 'http://www.google.com/'
+          })
+
+          var descriptionLinks = $(".description a")
+          descriptionLinks.click(function(event){
+            console.log(event)
+            event.preventDefault()
+            var $this = $(this)
+            var href = $this.attr("href")
+            console.log(href)
+            alert(href)
+            window.location.href= href
+          })
+        })
+      </script> -->
+
+
+  <script type="text/javascript">
+    $(document).ready(function(){
+      var contentForm = $(".new-content-form")
+      contentForm.submit(function(event){
+        event.preventDefault()
+        var $this = $(this)
+       //console.log(contentForm.serialize())
+        var textArea = $this.find('textarea')
+        //console.log(textArea.val())
+        var formMethod = $this.attr("method") // contentForm.attr("method")
+        var formAction = $this.attr("action")
+        var data = {
+          "content": textArea.val(),
+          "method": formMethod,
+          "action": formAction
+        }
+        $('.formDataSubmitted').text(textArea.val() + " method is " + formMethod)
+
+        textArea.val("")
+
+        // $.ajax({
+        //   url:
+        //   method:
+        //   data:
+        // })
+      })
+    })
+  </script>
+
+
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+  </body>
+</html>

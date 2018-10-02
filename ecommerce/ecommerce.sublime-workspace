@@ -1,0 +1,887 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"EmailAc",
+				"EmailActivationManager"
+			],
+			[
+				"E",
+				"EmailActivationAdmin"
+			],
+			[
+				"send",
+				"send_activation"
+			],
+			[
+				"base",
+				"base_url"
+			],
+			[
+				"from",
+				"from_email"
+			],
+			[
+				"send_",
+				"send_mail"
+			],
+			[
+				"email",
+				"email"
+			],
+			[
+				"auto_n",
+				"auto_now_add"
+			],
+			[
+				"EMAIL_HOST",
+				"EMAIL_HOST_PASSWORD"
+			],
+			[
+				"STRIP",
+				"STRIPE_PUB_KEY"
+			],
+			[
+				"MAILCHIMP",
+				"MAILCHIMP_API_KEY"
+			],
+			[
+				"is",
+				"is_subbed"
+			],
+			[
+				"mailchimp",
+				"mailchimp_subbed"
+			],
+			[
+				"Marketin",
+				"MarketingPreferenceUpdateView"
+			],
+			[
+				"Marke",
+				"MarketingPreferenceUpdateView"
+			],
+			[
+				"mail",
+				"mailchimp_msg"
+			],
+			[
+				"Mark",
+				"MarketingPreferenceAdmin"
+			],
+			[
+				"subsc",
+				"subscribed"
+			],
+			[
+				"uns",
+				"unsubscribed"
+			],
+			[
+				"check",
+				"check_valid_status"
+			],
+			[
+				"list",
+				"list_endpoint"
+			],
+			[
+				"list_",
+				"list_id"
+			],
+			[
+				"api",
+				"api_url"
+			],
+			[
+				"MAILCHIM",
+				"MAILCHIMP_EMAIL_LIST_ID"
+			],
+			[
+				"btnLoadDef",
+				"btnLoadDefaultHtml"
+			],
+			[
+				"defa",
+				"defaultHtml"
+			],
+			[
+				"auto",
+				"auto_now_add"
+			],
+			[
+				"STRIPE_",
+				"STRIPE_PUB_KEY"
+			],
+			[
+				"defaul",
+				"default_cards"
+			],
+			[
+				"ord",
+				"order_obj"
+			],
+			[
+				"new",
+				"new_charge_obj"
+			],
+			[
+				"ou",
+				"outcome"
+			],
+			[
+				"out",
+				"outcome_type"
+			],
+			[
+				"stripe",
+				"stripe_id"
+			],
+			[
+				"exp",
+				"exp_year"
+			],
+			[
+				"card",
+				"card_response"
+			],
+			[
+				"cus",
+				"customer_id"
+			],
+			[
+				"data",
+				"data-next-url"
+			],
+			[
+				"FORCE",
+				"FORCE_SESSION_TO_ONE"
+			],
+			[
+				"object_vie",
+				"object_viewed_receiver"
+			],
+			[
+				"full",
+				"full_name"
+			],
+			[
+				"typing",
+				"typingTimer"
+			],
+			[
+				"get",
+				"get_absolute_url"
+			],
+			[
+				"refre",
+				"refreshCartMethod"
+			],
+			[
+				"sub",
+				"submitSpan"
+			],
+			[
+				"tex",
+				"textArea"
+			],
+			[
+				"scrol",
+				"scrollHeight"
+			],
+			[
+				"des",
+				"descriptionItems"
+			],
+			[
+				"col-",
+				"col-12"
+			],
+			[
+				"bil",
+				"billing_address"
+			],
+			[
+				"shipping",
+				"shipping_address"
+			],
+			[
+				"ship",
+				"shipping_address_id"
+			],
+			[
+				"billing_add",
+				"billing_address_id"
+			],
+			[
+				"redi",
+				"redirect"
+			],
+			[
+				"Bill",
+				"BillingProfileManager"
+			],
+			[
+				"order",
+				"order_obj"
+			],
+			[
+				"bilil",
+				"billing_profile"
+			],
+			[
+				"action",
+				"action_url"
+			],
+			[
+				"Gues",
+				"GuestEmail"
+			],
+			[
+				"billing",
+				"billing_profile"
+			],
+			[
+				"bill",
+				"billing_profile"
+			],
+			[
+				"redir",
+				"redirect_path"
+			],
+			[
+				"rando",
+				"random_string_generator"
+			],
+			[
+				"product",
+				"product_id"
+			],
+			[
+				"produc",
+				"product_id"
+			],
+			[
+				"ProductDe",
+				"ProductDetailSlugView"
+			],
+			[
+				"pre",
+				"pre_save_cart_receiver"
+			],
+			[
+				"Car",
+				"CartManager"
+			],
+			[
+				"col",
+				"col-12"
+			],
+			[
+				"my",
+				"my-sm-0"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"btn",
+				"btn-outline-success"
+			],
+			[
+				"Product",
+				"ProductAdmin"
+			],
+			[
+				"feature",
+				"featured"
+			],
+			[
+				"Pro",
+				"ProductManager"
+			],
+			[
+				"upl",
+				"upload_image_path"
+			],
+			[
+				"Pr",
+				"Product"
+			],
+			[
+				"prod",
+				"products"
+			],
+			[
+				"produ",
+				"product_list_view"
+			],
+			[
+				"contact",
+				"contact_form"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/accounts/models.py",
+			"settings":
+			{
+				"buffer_size": 5924,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/accounts/views.py",
+			"settings":
+			{
+				"buffer_size": 4906,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/registration/activation-error.html",
+			"settings":
+			{
+				"buffer_size": 605,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/accounts/forms.py",
+			"settings":
+			{
+				"buffer_size": 6861,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/ecommerce/mixins.py",
+			"settings":
+			{
+				"buffer_size": 564,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/base.html",
+			"settings":
+			{
+				"buffer_size": 993,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/accounts/urls.py",
+			"settings":
+			{
+				"buffer_size": 401,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/NeilCollegeWork/Desktop/ecommerce",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/fasttracktojquery",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/accounts",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/accounts/passwords",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/accounts/templates",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/accounts/templates/accounts",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/accounts/templates/accounts/snippets",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/analytics",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/ecommerce",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/ecommerce/settings",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/marketing",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/products",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/products/fixtures",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/products/templates",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/products/templates/products",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/products/templates/products/snippets",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/templates",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/templates/base",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/templates/contact",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/templates/registration",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/templates/registration/emails"
+	],
+	"file_history":
+	[
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/ecommerce/settings/local.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/ecommerce/settings/base.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/templates/registration/activation-error.html",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/ecommerce/settings/__init__.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/ecommerce/settings/production.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/ecommerce/utils.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/accounts/admin.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/templates/registration/emails/verify.html",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/accounts/views.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/accounts/forms.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/templates/registration/emails/verify.txt",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/templates/contact/view.html",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/templates/registration/password_change_form.html",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/templates/base/navbar.html",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/accounts/urls.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/ecommerce/urls.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/accounts/passwords/urls.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/accounts/passwords/__init__.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/accounts/templates/accounts/home.html",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/analytics/models.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/templates/400.html",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/templates/403.html",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/templates/404.html",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/templates/500.html",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/ecommerce/aws/__init__.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/ecommerce/aws/utils.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/ecommerce/aws/conf.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/billing/models.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/.gitignore",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/delete/deletethis/settings.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/accounts/models.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/marketing/models.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/runtime.txt",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/Procfile",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/requirements.txt",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/ecommerce/base.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/marketing/forms.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/marketing/views.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/marketing/mixins.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/templates/base.html",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/templates/base/forms.html",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/marketing/admin.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/marketing/utils.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/static_my_proj/js/ecommerce.main.js",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/templates/base/js-templates.html",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/billing/views.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/carts/views.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/carts/templates/carts/checkout.html",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/billing/templates/billing/payment-method.html",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/ecommerce/settings.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/billing/admin.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/templates/base/js.html",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/static_my_proj/css/stripe-custom-style.css",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/templates/base/css.html",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/accounts/signals.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/products/views.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/analytics/mixins.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/analytics/utils.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/analytics/admin.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/analytics/signals.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/products/fixtures/products.json",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/accounts/migrations/0003_auto_20180712_2151.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/accounts/migrations/0002_customuser.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/static_my_proj/js/ecommerce.js",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/static_my_proj/js/csrf.ajax.js",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/ecommerce/views.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/ecommerce/forms.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/search/templates/search/snippets/search-form.html",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/products/templates/products/snippets/card.html",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/carts/templates/carts/home.html",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/carts/templates/carts/snippets/remove-product.html",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/products/templates/products/snippets/update-cart.html",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/carts/snippets/remove-product.html",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/products/models.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/carts/models.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/search/templates/search/view.html",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/search/views.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/products/templates/products/detail.html",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/addresses/models.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/addresses/forms.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/orders/models.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/fasttracktojquery/index.html",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/templates/home_page.html",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/products/admin.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/orders/views.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/products/urls.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/addresses/templates/addresses/form.html",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/carts/urls.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/addresses/views.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/addresses/templates/addresses/prev_addresses.html",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/carts/templates/carts/checkout-done.html",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/addresses/admin.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/accounts/templates/accounts/snippets/form.html",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/accounts/templates/accounts/login.html",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/templates/auth/login.html",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/tags/models.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/products/utils.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/orders/admin.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/carts/admin.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/tags/admin.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/search/urls.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/tags/views.py",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/search/templates/snippets/search-form.html",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/search/snippets/templates/search-form.html",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/search/snippets/search-form.html",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/search/snippets/test.html",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/templates/auth/register.html",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/products/templates/products/list.html",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/templates/bootstrap/example.html",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/products/templates/products/featured-detail.html",
+		"/Users/NeilCollegeWork/Desktop/ecommerce/src/static_my_proj/css/main.css"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"{% static \"css/main.css\" %"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/accounts/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5924,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5131,
+								5131
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1587.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/accounts/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4906,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3730,
+								3730
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 884.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/templates/registration/activation-error.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 605,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								293,
+								293
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/accounts/forms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6861,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3193,
+								3193
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1353.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/ecommerce/mixins.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 564,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								151,
+								151
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/templates/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 993,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								445,
+								445
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 115.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/accounts/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 401,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								401,
+								401
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ecommerce.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 281.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
